@@ -1,0 +1,47 @@
+.showcase {
+	padding: 350px;
+	margin-bottom: 0px;
+	background-image: url(../images/Business.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	box-shadow: 0 0 20px #060605;
+	background-attachment:fixed;
+}
+
+.main-article {
+	margin-bottom: 0px;
+}
+.menu {
+	background: #131212;
+	color: white;
+	text-align:center;
+	margin:0px;
+}
+.e {
+	margin-left: 0px;
+	background: white;
+}
+
+.Flight {
+	margin: 30px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 10px;
+}
+img {
+	border-radius: 50%;
+}
+.box {
+	background: white;
+	margin-left: 520px;
+	width: 300px;
+	height: 1px;
+}
+
+body {
+	font-family: century gothic;
+}
+
+
+	
